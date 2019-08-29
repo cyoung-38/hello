@@ -9,6 +9,8 @@ Activity: Lab 1
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
+  printf(“Colby Young\n”);
+  printf(“Computer Engineering\n”);
   printf(“Mohammed Ba Omar\n”);
   printf(“Civil Engineering\n”);
   return 0;
