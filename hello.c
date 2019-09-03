@@ -1,9 +1,10 @@
-/*
-Name: Mohammed Ba Omar
-Date: 8/27/2019
-Class: CSCE-155E
-Activity: Lab 1
-*/
+/**
+  * Author: Colby Young
+  * Date: 8/27/2019
+  * Class: CSCE-155E
+  * Activity: Hack 1
+  * Program outputs author and collaborator's name and major.
+**/
 
 #include <stdio.h>
 #include <stdlib.h>
